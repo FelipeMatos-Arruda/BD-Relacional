@@ -58,7 +58,17 @@ Apartir de agora podemos usar SQL para fazer consultas.
 %%sql
 
 SELECT count(*) FROM diabetes
+
+#Retornará 768 registros.
 ```
+
+Vamos ver quantos pacientes tem a glicose maior que 190
+```
+%%sql
+
+SELECT Age, Glucose, Outcome FROM diabetes WHERE Glucose > 190
+```
+![image](https://user-images.githubusercontent.com/84130785/174133543-79099c8d-9557-4e9d-a36b-bf7a298a6bb5.png)
 
 
 
