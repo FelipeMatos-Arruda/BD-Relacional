@@ -4,6 +4,9 @@
 O arquivo usado nesse projeto foi: https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
 
 ### Instalando e Carregando os Pacotes
+
+Usamos o comando `pip install` para instalar pacotes na sua máquina.
+
 ```
 pip install pandas
 pip install sqlite3
