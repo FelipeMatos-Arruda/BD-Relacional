@@ -3,7 +3,7 @@
 
 O arquivo usado nesse projeto foi: https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
 
-## Instalando e Carregando os Pacotes
+### Instalando e Carregando os Pacotes
 ```
 pip install pandas
 pip install sqlite3
