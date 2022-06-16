@@ -7,7 +7,8 @@ O arquivo usado nesse projeto foi: https://www.kaggle.com/datasets/uciml/pima-in
 
 Usamos o comando `pip install` para instalar pacotes na sua máquina.
 
-```
-pip install pandas
+```python
+
+pip install pandas 
 pip install sqlite3
 ```
